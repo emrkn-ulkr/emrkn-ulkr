@@ -20,9 +20,25 @@ jobs:
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: <<dist/snake.svg?palette=github-light&color_snake=%23FF5722&color_dots=%23FFE0B2,%23FFCC80,%23FFB74D>>  
+          outputs: dist/snake.svg?palette=github-light&color_snake=%23FF5722&color_dots=%23FFE0B2,%23FFCC80,%23FFB74D
 
-      - name: push to output branch
+      - name: <<inject gradient & slow animation>> 🐢🎨  
+        run: |
+          # 1) Animation süresini 8 saniyeye çıkarır → yılan yavaş hareket eder  
+          sed -i 's/animation-duration:[0-9]\+ms/animation-duration:8000ms/' dist/snake.svg  
+          
+          # 2) SVG başına gradient tanımı ekler  
+          sed -i '1i<defs>
+            <linearGradient id="myGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+              <stop offset="0%" stop-color="#FF5722"/>
+              <stop offset="100%" stop-color="#FFC107"/>
+            </linearGradient>
+          </defs>' dist/snake.svg  
+          
+          # 3) Yılan fill rengini gradient’e yönlendirir  
+          sed -i 's/fill="#FF5722"/fill="url(#myGradient)"/g' dist/snake.svg  
+
+      - name: push to output branch  
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output

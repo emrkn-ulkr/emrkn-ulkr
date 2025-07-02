@@ -46,6 +46,4 @@
 ###
 
 // <img src="https://raw.githubusercontent.com/emrkn-ulkr/emrkn-ulkr/output/snake.svg" alt="Snake animation" />
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake white animation"/>
-
 ###

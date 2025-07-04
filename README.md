@@ -1,4 +1,4 @@
-<img align="right" height="200" src="https://giffiles.alphacoders.com/917/91750.gif"  />
+<img align="right" height="180" src="https://giffiles.alphacoders.com/917/91750.gif"  />
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<h5 align="left">📫 How to reach me 🚩 emirkanulker08@gmail.com</h5>
+<h5 align="left">📫 How to reach me 🚩emirkanulker08@gmail.com</h5>
 
 ###
 

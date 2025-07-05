@@ -66,3 +66,6 @@
 <img src="https://raw.githubusercontent.com/emrkn-ulkr/emrkn-ulkr/output/snake.svg" alt="Snake animation" />
 
 ###
+**_Could be better_**
+<br>
+**_THE RISE_**

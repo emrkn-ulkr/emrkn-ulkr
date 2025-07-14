@@ -21,11 +21,11 @@
 
 <div style="display: flex; gap: 1rem; flex-wrap: wrap; align-items: center;">
     <!-- Her ikon linki -->
+    <a href="https://www.java.com" target="_blank" rel="noopener noreferrer" aria-label="Java programming language">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java Logo" style="width:40px; height:40px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
+    </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer" aria-label="JavaScript programming language">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript Logo" style="width:40px; height:40px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
-    </a>
-   <a href="https://www.java.com" target="_blank" rel="noopener noreferrer" aria-label="Java programming language">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java Logo" style="width:40px; height:40px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
     </a>
    <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noopener noreferrer" aria-label="Microsoft SQL Server">
       <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="Microsoft SQL Server Logo" style="width:40px; height:40px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />

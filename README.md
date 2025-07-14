@@ -30,12 +30,6 @@
    <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noopener noreferrer" aria-label="Microsoft SQL Server">
       <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="Microsoft SQL Server Logo" style="width:40px; height:40px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
     </a>
-   <a href="https://unity.com/" target="_blank" rel="noopener noreferrer" aria-label="Unity game engine">
-      <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity Logo" style="width:33px; height:33px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.0)'" onmouseout="this.style.transform='scale(1)'" />
-    </a>
-    <a href="https://www.w3schools.com/cs/" target="_blank" rel="noopener noreferrer" aria-label="C# programming language">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C# Logo" style="width:36px; height:36px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.0)'" onmouseout="this.style.transform='scale(1)'" />
-    </a>
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noopener noreferrer" aria-label="CSS3 stylesheet language">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3 Logo" style="width:40px; height:40px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
     </a>

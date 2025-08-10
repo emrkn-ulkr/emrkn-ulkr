@@ -5,12 +5,10 @@
 <h4 align="center">
     <img src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f680.gif" alt="Rocket" width="20" height="20">Junior Developer from TURKEY
 </h4>
-
 <div align="center">
     <a href="mailto:emirkanulker08@gmail.com">
       <img src="https://img.shields.io/badge/Email-emirkanulker08@gmail.com-red?style=flat-square&logo=gmail"></a>
 </div>
-
 <br>
 <div style="display: flex; gap: 1rem; flex-wrap: wrap; align-items: center;">
     <!-- Her ikon linki -->
@@ -38,7 +36,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=emrkn-ulkr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=true&order=2" alt="languages graph" style="height: 150px; max-width: 100%; object-fit: contain;" />
   <img src="https://streak-stats.demolab.com?user=emrkn-ulkr&locale=en&mode=daily&theme=default&hide_border=true&border_radius=5&order=3" alt="streak graph" style="height: 150px; max-width: 100%; object-fit: contain;" />
 </section>
-
 <img src="https://raw.githubusercontent.com/emrkn-ulkr/emrkn-ulkr/output/snake.svg" alt="Snake animation" />
 
 **_Could be better_**

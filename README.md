@@ -11,7 +11,7 @@
 
 ###
 
-<h4 align="center">Junior Developer from TURKEY</h4>
+<h4 align="center">🚀Junior Developer from TURKEY</h4>
 
 ###
 

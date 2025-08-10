@@ -11,7 +11,14 @@
 
 ###
 
-<h4 align="center">🚀Junior Developer from TURKEY</h4>
+<h4 align="center">
+    <img src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f680.gif" 
+         alt="Rocket" 
+         width="20" 
+         height="20" 
+         style="vertical-align: middle;">
+    Junior Developer from TURKEY
+</h4>
 
 ###
 

@@ -6,7 +6,7 @@
     <img src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f680.gif" alt="Rocket" width="20" height="20">Junior Developer from TURKEY
 </h4>
 
-<h5 align="center" style="margin-left: -120px"; >📬 Contact: <a href="mailto:emirkanulker08@gmail.com">🚩emirkanulker08@gmail.com</a></h5>
+<h5 align="center" style="margin-left: -120px;" >📬 Contact: <a href="mailto:emirkanulker08@gmail.com">🚩emirkanulker08@gmail.com</a></h5>
 
 <div style="display: flex; gap: 1rem; flex-wrap: wrap; align-items: center;">
     <!-- Her ikon linki -->

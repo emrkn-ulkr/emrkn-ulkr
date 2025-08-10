@@ -1,6 +1,6 @@
 <img align="right" height="500" width="400" src="https://giffiles.alphacoders.com/917/91750.gif" />
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=emrkn-ulkr.emrkn-ulkr&left_color=red&right_color=mediumpurple"  />
-
+<hr>
 <h3 align="center">Hi👋I'm Emirkan Ülker</h3>
 <h4 align="center">
     <img src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f680.gif" alt="Rocket" width="20" height="20">Junior Developer from TURKEY

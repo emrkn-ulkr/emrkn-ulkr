@@ -7,7 +7,7 @@
 
 ###
 
-<h3 align="center">Hi 👋 I'm Emirkan Ülker</h3>
+<h3 align="center">Hi👋I'm Emirkan Ülker</h3>
 
 ###
 

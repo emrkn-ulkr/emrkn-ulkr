@@ -1,13 +1,17 @@
 <img align="right" height="500" width="400" src="https://giffiles.alphacoders.com/917/91750.gif" />
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=emrkn-ulkr.emrkn-ulkr&left_color=red&right_color=mediumpurple"  />
 
-<h3 align="center">Hi, 👋 I'm Emirkan Ülker!</h3>
+<h3 align="center">Hi👋I'm Emirkan Ülker</h3>
 <h4 align="center">
     <img src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f680.gif" alt="Rocket" width="20" height="20">Junior Developer from TURKEY
 </h4>
 
-<h5 align="center" style="margin-left: -120px;" >📬 Contact: <a href="mailto:emirkanulker08@gmail.com">🚩emirkanulker08@gmail.com</a></h5>
+<div align="center">
+    <a href="mailto:emirkanulker08@gmail.com">
+      <img src="https://img.shields.io/badge/Email-emirkanulker08@gmail.com-red?style=flat-square&logo=gmail"></a>
+</div>
 
+<br>
 <div style="display: flex; gap: 1rem; flex-wrap: wrap; align-items: center;">
     <!-- Her ikon linki -->
     <a href="https://www.java.com" target="_blank" rel="noopener noreferrer" aria-label="Java programming language">

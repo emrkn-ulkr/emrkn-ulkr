@@ -5,6 +5,7 @@
 <h4 align="center">
     <img src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f680.gif" alt="Rocket" width="20" height="20">Junior Developer from TURKEY
 </h4>
+<br>
 <div align="center">
     <a href="mailto:emirkanulker08@gmail.com">
       <img src="https://img.shields.io/badge/Email-emirkanulker08@gmail.com-red?style=flat-square&logo=gmail"></a>

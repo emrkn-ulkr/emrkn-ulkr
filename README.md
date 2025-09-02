@@ -28,7 +28,7 @@
     <a href="https://www.w3.org/html/" target="_blank" rel="noopener noreferrer" aria-label="HTML5 markup language">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5 Logo" style="width:40px; height:40px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
     </a>
-    <a href="https://www.w3schools.com/typescript/index.asp" target="_blank" rel="noopener noreferrer" aria-label="typescript">
+    <a href="https://www.w3schools.com/typescript/index.php" target="_blank" rel="noopener noreferrer" aria-label="typescript">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
 </a>
 

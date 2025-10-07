@@ -37,7 +37,6 @@
 
 <section style="width: 100%; display: flex; justify-content: center; gap: 1rem; flex-wrap: wrap; box-sizing: border-box; padding: 0 1rem;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=emrkn-ulkr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=true&order=2" alt="languages graph" style="height: 150px; max-width: 100%; object-fit: contain;" />
-  <img src="https://streak-stats.demolab.com?user=emrkn-ulkr&locale=en&mode=daily&theme=default&hide_border=true&border_radius=5&order=3" alt="streak graph" style="height: 150px; max-width: 100%; object-fit: contain;" />
 </section>
 <img src="https://raw.githubusercontent.com/emrkn-ulkr/emrkn-ulkr/output/snake.svg" alt="Snake animation" />
 

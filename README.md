@@ -35,13 +35,13 @@
 <br>
 
 
-<section style="width: 100%; display: flex; justify-content: center; box-sizing: border-box; margin: 0; padding: 0;">
+<p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=emrkn-ulkr&locale=en&hide_title=false&layout=compact&card_width=720&langs_count=5&theme=default&hide_border=true&order=2" 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=emrkn-ulkr&locale=en&layout=compact&card_width=720&langs_count=5&theme=default&hide_border=true&order=2" 
     alt="languages graph" 
-    style="width: 100%; height: auto; object-fit: cover; display: block;" 
-  />
-</section>
+    width="100%" />
+</p>
+
 
 <img src="https://raw.githubusercontent.com/emrkn-ulkr/emrkn-ulkr/output/snake.svg" alt="Snake animation" />
 

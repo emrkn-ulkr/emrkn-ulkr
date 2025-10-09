@@ -1,4 +1,4 @@
-<img align="right" height="350" width="350" src="https://github.com/emrkn-ulkr/emrkn-ulkr/raw/main/giff.gif" />
+<img align="right" height="250" width="250" src="https://github.com/emrkn-ulkr/emrkn-ulkr/raw/main/giff.gif" />
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=emrkn-ulkr.emrkn-ulkr&left_color=red&right_color=mediumpurple"  />
 <hr>
 <h3 align="center">Hi. I'm Emirkan Ülker</h3>

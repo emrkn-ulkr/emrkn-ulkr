@@ -3,7 +3,7 @@
 <hr>
 <h3 align="center">Hi. I'm Emirkan Ülker</h3>
 <h4 align="center">
-    <img src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f680.gif" alt="Rocket" width="20" height="20">Junior Developer from TURKEY
+    <img src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f680.gif" alt="Rocket" width="20" height="20">Software Developer
 </h4>
 <br>
 <div align="center">

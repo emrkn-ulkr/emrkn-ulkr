@@ -2,14 +2,12 @@
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=emrkn-ulkr.emrkn-ulkr&left_color=red&right_color=mediumpurple"  />
 <hr>
 <h3 align="center">Hi. I'm Emirkan Ülker</h3>
-<h4 align="center">
-    <img src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f680.gif" alt="Rocket" width="20" height="20">Software Developer
-</h4>
 <br>
 <div align="center">
     <a href="mailto:emirkanulker08@gmail.com">
       <img src="https://img.shields.io/badge/Email-emirkanulker08@gmail.com-red?style=flat-square&logo=gmail"></a>
 </div>
+<br>
 <br>
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java logo" width="45" height="45"/>

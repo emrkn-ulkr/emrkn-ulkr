@@ -25,12 +25,12 @@
 <br>
 
 
-<p align="center">
+<div align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs?username=emrkn-ulkr&locale=en&layout=compact&card_width=720&langs_count=10&theme=default&hide_border=true&order=2" 
-    alt="languages graph" 
-    width="100%" />
-</p>
+    alt="Languages Graph" 
+    style="width:100%; max-width:720px; border-radius:12px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" />
+</div>
 
 
 <img src="https://raw.githubusercontent.com/emrkn-ulkr/emrkn-ulkr/output/snake.svg" alt="Snake animation" />

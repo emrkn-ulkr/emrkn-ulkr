@@ -27,7 +27,7 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=emrkn-ulkr&locale=en&layout=compact&card_width=720&langs_count=5&theme=default&hide_border=true&order=2" 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=emrkn-ulkr&locale=en&layout=compact&card_width=720&langs_count=10&theme=default&hide_border=true&order=2" 
     alt="languages graph" 
     width="100%" />
 </p>

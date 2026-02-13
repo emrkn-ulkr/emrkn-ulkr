@@ -1,13 +1,12 @@
-<img align="right" height="250" width="250" src="https://github.com/emrkn-ulkr/emrkn-ulkr/raw/main/giff.gif" />
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=emrkn-ulkr.emrkn-ulkr&left_color=red&right_color=mediumpurple"  />
 <hr>
 <h3 align="center">Hi. I'm Emirkan Ülker</h3>
 <h4 align="center">
-    Software Developer
+   Full Stack Developer | Java & Spring Boot | React.js | REST API
 </h4>
 <div align="center">
-    <a href="mailto:officialemirkan@gmail.com">
-      <img src="https://img.shields.io/badge/Email-officialemirkan@gmail.com-red?style=flat-square&logo=gmail"></a>
+    <a href="mailto:e_yonetimhesabi@hotmail.com">
+      <img src="https://img.shields.io/badge/Email-e_yonetimhesabi@hotmail.com-red?style=flat-square&logo=gmail"></a>
 </div>
 <br>
 <br>

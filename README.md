@@ -5,8 +5,8 @@
    Full Stack Developer | Java & Spring Boot | React.js | REST API
 </h4>
 <div align="center">
-    <a href="mailto:e_yonetimhesabi@hotmail.com">
-      <img src="https://img.shields.io/badge/Email-e_yonetimhesabi@hotmail.com-red?style=flat-square&logo=gmail"></a>
+    <a href="mailto:emirkanulker08@gmail.com">
+      <img src="https://img.shields.io/badge/Email-emirkanulker08@gmail.com-red?style=flat-square&logo=gmail"></a>
 </div>
 <br>
 <br>
